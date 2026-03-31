@@ -1,0 +1,8 @@
+numpy>=1.26
+matplotlib>=3.8
+pandas>=2.2
+sympy>=1.13
+numba>=0.60
+PyQt5>=5.15
+jupyter>=1.0
+ipykernel>=6.29
